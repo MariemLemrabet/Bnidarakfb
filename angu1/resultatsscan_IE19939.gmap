@@ -1,0 +1,11 @@
+# Nmap 7.94 scan initiated Fri Dec 15 08:17:59 2023 as: nmap -sn -oG resultatsscan_IE19939.gmap 196.10.216.0/24
+Host: 196.10.216.11 (gr-mail.gouv.ml)	Status: Up
+Host: 196.10.216.16 (relais.gouv.ml)	Status: Up
+Host: 196.10.216.28 ()	Status: Up
+Host: 196.10.216.44 ()	Status: Up
+Host: 196.10.216.45 ()	Status: Up
+Host: 196.10.216.49 ()	Status: Up
+Host: 196.10.216.70 ()	Status: Up
+Host: 196.10.216.75 ()	Status: Up
+Host: 196.10.216.92 ()	Status: Up
+# Nmap done at Fri Dec 15 08:18:14 2023 -- 256 IP addresses (9 hosts up) scanned in 15.12 seconds
