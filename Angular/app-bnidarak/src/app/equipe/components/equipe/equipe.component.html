@@ -10,12 +10,14 @@
         <div class="team-member">
           <!-- Ajoutez une logique pour déterminer la source de l'image en fonction des données -->
           <img class="mx-auto rounded-circle" [src]="getTeamMemberImage(data)" alt="..." />
-          <h4>{{ data.prenom }} {{ data.nom }}</h4>
+          <h4>{{ data.nom}} {{ data.prenom}}</h4>
           <p class="text-muted">{{ data.typeTravail }}</p>
-          <!-- Ajoutez d'autres informations si nécessaire -->
-          <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="{{ data.prenom }} {{ data.nom }} Twitter Profile"><i class="fab fa-twitter"></i></a>
-          <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="{{ data.prenom }} {{ data.nom }} Facebook Profile"><i class="fab fa-facebook-f"></i></a>
-          <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="{{ data.prenom }} {{ data.nom }} LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
+          <!-- Lien pour l'appel téléphonique -->
+         <a class="btn btn-dark btn-social mx-2" href="tel:{{ data.contact }}" [attr.aria-label]="'Appeler ' + data.prenom + ' ' + data.nom"><i class="fas fa-phone"></i></a>
+
+         <!-- Lien pour WhatsApp -->
+         <a class="btn btn-dark btn-social mx-2" href="https://wa.me/{{ data.contact }}" [attr.aria-label]="'Chat WhatsApp avec ' + data.prenom + ' ' + data.nom"><i class="fab fa-whatsapp"></i></a>
+
         </div>
       </div>
     </div>
