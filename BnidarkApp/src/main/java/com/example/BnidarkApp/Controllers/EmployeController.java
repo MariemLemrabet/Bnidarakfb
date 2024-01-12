@@ -2,7 +2,6 @@ package com.example.BnidarkApp.Controllers;
 
 import com.example.BnidarkApp.Entity.Employe;
 import com.example.BnidarkApp.Services.EmployeService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;

@@ -22,6 +22,9 @@ public class Employe {
     @Column(name = "type_travail")
     private String typeTravail;
 
+    @Column(name = "image_url")
+    private String imageUrl;
+
     public Integer getId() {
         return id;
     }
@@ -60,6 +63,14 @@ public class Employe {
 
     public void setTypeTravail(String typeTravail) {
         this.typeTravail = typeTravail;
+    }
+
+    public String getImageUrl() {
+        return imageUrl;
+    }
+
+    public void setImageUrl(String imageUrl) {
+        this.imageUrl = imageUrl;
     }
 
 }
