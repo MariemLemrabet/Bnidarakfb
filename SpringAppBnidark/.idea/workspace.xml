@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="878a150b-6250-4b12-bae1-528b63d72bfb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/java/com/example/BnidarkApp/Controllers/SocietesArchitectureController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/java/com/example/BnidarkApp/Controllers/SocietesMateriauxController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/java/com/example/BnidarkApp/Controllers/TerrainsAVendreController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/java/com/example/BnidarkApp/Repository/SocietesArchitectureRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/java/com/example/BnidarkApp/Repository/SocietesMateriauxRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/java/com/example/BnidarkApp/Repository/TerrainsAVendreRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/java/com/example/BnidarkApp/Services/SocietesArchitectureService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/java/com/example/BnidarkApp/Services/SocietesMateriauxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/java/com/example/BnidarkApp/Services/TerrainsAVendreService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/app-bnidarak/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Angular/app-bnidarak/src/app/app-routing.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/app-bnidarak/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Angular/app-bnidarak/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/app-bnidarak/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Angular/app-bnidarak/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/app-bnidarak/src/app/equipe/components/equipe/equipe.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Angular/app-bnidarak/src/app/equipe/components/equipe/equipe.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/app-bnidarak/src/app/equipe/components/equipe/equipe.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Angular/app-bnidarak/src/app/equipe/components/equipe/equipe.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/app-bnidarak/src/app/equipe/services/equipe.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Angular/app-bnidarak/src/app/equipe/services/equipe.service.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/app-bnidarak/src/app/produits/components/salete-cailloux/salete-cailloux.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Angular/app-bnidarak/src/app/produits/components/salete-cailloux/salete-cailloux.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/app-bnidarak/src/app/produits/produits.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../Angular/app-bnidarak/src/app/produits/produits.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/app-bnidarak/src/app/shared/components/contacte/contacte.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Angular/app-bnidarak/src/app/shared/components/contacte/contacte.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/app-bnidarak/src/app/shared/components/navbar/navbar.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Angular/app-bnidarak/src/app/shared/components/navbar/navbar.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/app-bnidarak/src/app/shared/components/nous/nous.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Angular/app-bnidarak/src/app/shared/components/nous/nous.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/app-bnidarak/src/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Angular/app-bnidarak/src/assets/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/app-bnidarak/src/assets/img/bni.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/app-bnidarak/src/assets/img/close-icon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/app-bnidarak/src/assets/img/header-bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/app-bnidarak/src/assets/img/navbar-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Angular/app-bnidarak/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Angular/app-bnidarak/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/java/com/example/BnidarkApp/Controllers/AdministrateurController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/java/com/example/BnidarkApp/Controllers/AdministrateurController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/java/com/example/BnidarkApp/Controllers/EmployeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/java/com/example/BnidarkApp/Controllers/EmployeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/java/com/example/BnidarkApp/Entity/CamionsTerreetm7ar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/java/com/example/BnidarkApp/Entity/Employe.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/java/com/example/BnidarkApp/Entity/Employe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/java/com/example/BnidarkApp/Entity/SocietesArchitecture.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/java/com/example/BnidarkApp/Entity/SocietesArchitecture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/java/com/example/BnidarkApp/Entity/SocietesMateriaux.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/java/com/example/BnidarkApp/Entity/SocietesMateriaux.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/java/com/example/BnidarkApp/Entity/TerrainsAVendre.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/java/com/example/BnidarkApp/Entity/TerrainsAVendre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/java/com/example/BnidarkApp/Entity/Utilisateur.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/java/com/example/BnidarkApp/Services/AdministrateurService.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/java/com/example/BnidarkApp/Services/AdministrateurService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/java/com/example/BnidarkApp/Services/EmployeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/java/com/example/BnidarkApp/Services/EmployeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/SpringAppBnidark/BnidarkApp/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2bLcvPtb02YlxzkTnMdNrGmMzwQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "mariembranche",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="878a150b-6250-4b12-bae1-528b63d72bfb" name="Changes" comment="" />
+      <created>1705998033318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705998033318</updated>
+      <workItem from="1705998034476" duration="617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
